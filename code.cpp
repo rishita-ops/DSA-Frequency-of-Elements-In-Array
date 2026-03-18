@@ -1,6 +1,3 @@
-/*
-Find the frequency of a number in array
-*/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
